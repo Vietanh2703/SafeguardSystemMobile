@@ -1,6 +1,6 @@
 # safeguard_mobile
 
-Safeguard Assignment & Management System
+A Safeguard Assignment & Management System on Mobile platform
 
 ## Getting Started
 
