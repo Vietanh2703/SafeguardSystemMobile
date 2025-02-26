@@ -1,7 +1,14 @@
+buildscript {
+    repositories {
+        google() // Đảm bảo có dòng này
+        mavenCentral()
+    }
+}
 allprojects {
     repositories {
         google()
         mavenCentral()
+
     }
 }
 

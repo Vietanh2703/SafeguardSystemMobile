@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "275626497484",
+    "project_id": "safeguard-system-7f787",
+    "storage_bucket": "safeguard-system-7f787.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275626497484:android:d9b7b7f1b32cadbae53969",
+        "android_client_info": {
+          "package_name": "com.example.safeguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275626497484-fa3q5qhtv71sjd7d8rg1c9nvlkrlotko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo4iSEjXN_hNc0sbBnVWGTzolwaHe1O1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275626497484-fa3q5qhtv71sjd7d8rg1c9nvlkrlotko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275626497484:android:ca8d4497ea3fd398e53969",
+        "android_client_info": {
+          "package_name": "com.example.safeguard_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275626497484-fa3q5qhtv71sjd7d8rg1c9nvlkrlotko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo4iSEjXN_hNc0sbBnVWGTzolwaHe1O1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275626497484-fa3q5qhtv71sjd7d8rg1c9nvlkrlotko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
